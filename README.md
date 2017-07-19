@@ -1,2 +1,2 @@
 # test_repo
-Test for the creation of repo
+Test to the creation of repo
